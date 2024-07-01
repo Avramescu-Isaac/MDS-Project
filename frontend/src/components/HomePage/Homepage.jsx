@@ -86,7 +86,6 @@ function Homepage() {
             <h2>Developers</h2>
             <h4>Rădoi Dragoș Cosmin</h4>
             <h4>Avrămescu Isaac Sebastian</h4>
-            <h4>Eșanu Iustin</h4>
             <h4>Vlaicu Alexandra</h4>
           </div>
           {/* Buton pentru revenirea la meniul principal */}
